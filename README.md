@@ -1,5 +1,22 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Awesome GTM Tools Banner" width="800">
+  <svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="200" rx="10" fill="url(#paint0_linear)"/>
+    <defs>
+      <linearGradient id="paint0_linear" x1="0" y1="0" x2="800" y2="200" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#1A202C"/>
+        <stop offset="1" stop-color="#2D3748"/>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#63B3ED" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 42px;">
+      AWESOME GTM TOOLS
+    </text>
+    <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" fill="#A0AEC0" style="font-family: Arial, sans-serif; font-size: 18px; letter-spacing: 2px;">
+      AI-POWERED REVENUE OPERATIONS & SALES INTELLIGENCE
+    </text>
+    <path d="M50 160H750" stroke="#4A5568" stroke-width="2" stroke-dasharray="10 10"/>
+    <circle cx="50" cy="50" r="20" fill="#3182CE" fill-opacity="0.2"/>
+    <circle cx="750" cy="150" r="30" fill="#3182CE" fill-opacity="0.1"/>
+  </svg>
 </p>
 
 <p align="center">
