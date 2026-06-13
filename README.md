@@ -1,104 +1,106 @@
-# Awesome-GTM-Tools
-## Top GTM (Go-To-Market) Tools Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome GTM Tools Banner" width="800">
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Revenue Operations, Sales Intelligence & Go-To-Market Execution*  
-**Last updated: March 2026**
+<p align="center">
+  <a href="https://github.com/awesome-gtm-tools/awesome-gtm-tools/stargazers"><img src="https://img.shields.io/github/stars/awesome-gtm-tools/awesome-gtm-tools?style=for-the-badge&color=blue" alt="Stars"></a>
+  <a href="https://github.com/awesome-gtm-tools/awesome-gtm-tools/network/members"><img src="https://img.shields.io/github/forks/awesome-gtm-tools/awesome-gtm-tools?style=for-the-badge&color=blueviolet" alt="Forks"></a>
+  <a href="https://github.com/awesome-gtm-tools/awesome-gtm-tools/blob/main/LICENSE"><img src="https://img.shields.io/github/license/awesome-gtm-tools/awesome-gtm-tools?style=for-the-badge&color=green" alt="License"></a>
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome">
+</p>
 
-This repository tracks notable **SaaS platforms** and **open-source projects** building **GTM Tools**. These platforms help revenue teams with account-based marketing, lead enrichment, intent data, pipeline orchestration, sales engagement, revenue intelligence, and autonomous GTM workflows.
+# 🚀 Awesome GTM Tools
+## The Ultimate Ecosystem for Go-To-Market (GTM) & Revenue Operations (RevOps)
 
-**Examples** include Elentaria, Demandbase One, 6sense, ZoomInfo (Chorus/Operations), Clay, GTM Engine, Fullcast, 11x.ai (Alice), Copy.ai (GTM Workflows), SuperAGI, and Gong (Revenue AI OS) (the category leaders). Tools listed here emphasize **agentic capabilities** (multi-step reasoning, personalized outreach, pipeline prediction, and automated execution).
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local LLMs (Ollama), full data privacy, and complete customization — ideal for revenue teams and startups who want sovereign GTM infrastructure without high SaaS costs.
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## SaaS Products
-
-### Core Platforms (GTM Tools)
-
-| Product | Description | Company Size (Valuation/Revenue) | Pricing | Free Tier / Trial Limits |
-| :--- | :--- | :--- | :--- | :--- |
-| **[Gong (Revenue AI OS)](https://www.gong.io/)** | Revenue intelligence platform with deep AI analysis of sales conversations and GTM performance. | **$7.25B** Valuation / ~$500M Rev | **Custom:** ~$5,000 platform fee + ~$1,600/user/year. | **None.** No free tier; requires direct sales engagement. |
-| **[6sense](https://6sense.com/)** | Revenue AI platform using intent data and predictive analytics for GTM execution. | **$5.2B** Valuation / ~$600M Rev | **Custom:** Median ~$63,000/year. Range typically $60k–$300k/year. | **Free Plan:** 50 data credits/month, company/people search, and Chrome extension. |
-| **[Clay](https://clay.com/)** | Modern data enrichment and GTM workflow platform with powerful AI automation. | **$3.1B** Valuation / ~$100M ARR | **Starter:** $149/mo; **Explorer:** $349/mo; **Pro:** $800/mo. | **Free Plan:** 100 credits/month. 14-day Pro trial (1,000 credits) available. |
-| **[ZoomInfo (Chorus/Operations)](https://zoominfo.com/)** | Comprehensive sales intelligence and revenue operations platform with AI conversation intelligence. | **$2.28B** Market Cap / ~$1.25B Rev | **Custom:** Starts ~$14,995/year (Professional). Advanced/Elite tiers are higher. | **Community Edition:** 10–25 credits/month in exchange for contact sharing. |
-| **[Demandbase One](https://www.demandbase.com/)** | Account-based marketing and GTM platform with strong intent data and AI-driven targeting. | **$1B+** Est. Valuation / ~$250M Rev | **Custom:** Median ~$65,000/year. Includes platform fee + ~$1,200–$3,000/user/year. | **None.** 100% enterprise model; no public free tier or trial. |
-| **[11x.ai (Alice)](https://11x.ai/)** | Autonomous AI sales agent for GTM outreach and meeting booking. | **$350M** Valuation / ~$25M ARR | **Custom:** Estimated $50,000–$60,000/year (~$5,000/month). | **None.** No public free trial or self-serve signup reported. |
-| **[Fullcast](https://fullcast.io/)** | Revenue operations and territory management platform with AI insights. | **$303.6M** Valuation / ~$130M Rev | **Custom:** Average ~$85,000/year. Range $32k–$250k/year. | **None.** Enterprise-focused; typically requires a demo/sales call. |
-| **[Copy.ai (GTM Workflows)](https://copy.ai/)** | AI content platform with dedicated GTM workflow automation. | **$65M** Est. Valuation / ~$50M ARR | **Chat:** $29/mo (5 seats); **Enterprise:** Custom. | **Free Plan:** 2,000 words/month and 200 one-time workflow credits. |
-| **[SuperAGI](https://superagi.com/)** | Infrastructure for building autonomous agents tailored for GTM processes. | **$29.7M** Valuation / ~$10M Rev | **Starter:** $12/mo; **Business:** $48/mo; **Growth:** $49/user/mo. | **Free Plan:** 100 credits/month and ~25 prospects/day cap. |
-| **[GTM Engine](https://gtmengine.com/)** | AI-driven platform for building and optimizing go-to-market strategies and execution. | **$2.5M** Est. Valuation / ~$2M Rev | **Launch:** $149/seat/mo; **Team:** $129/seat/mo; **Grow:** $99/seat/mo. | **Free Plan:** 1,000 one-time credits for prospecting and outreach drafts. |
-| **[Elentaria](https://elentaria.com/)** | AI-powered GTM platform focused on intelligent lead routing, personalization, and revenue orchestration. | **Early Stage** / ~$1M-$5M Rev | **Audit:** $190 (one-time); **Operator/Scale:** Custom tiered pricing. | **No forever free tier.** Offers a one-time GTM Audit for $190. |
-
-### Advanced & Specialized Platforms
-
-**Other notable mentions**: HubSpot Revenue Hub, Salesforce Einstein, and various intent-based GTM platforms.
-
-## Open-Source GitHub Projects
-
-### Dedicated GTM & Revenue Operations Tools
-
-- **[Twenty](https://github.com/twentyhq/twenty)**  
-  Modern open-source CRM designed for startups and revenue teams. Excellent foundation for building custom GTM workflows and pipelines.
-
-- **[n8n](https://github.com/n8n-io/n8n)**  
-  Leading open-source workflow automation tool with powerful LLM nodes. Ideal for building autonomous GTM agents and multi-step revenue processes.
-
-- **[LangGraph GTM Agents](https://github.com/langchain-ai/langgraph)**  
-  Stateful multi-agent framework for building intelligent GTM agents (lead research, personalization, outreach, follow-up).
-
-- **[CrewAI Revenue Crews](https://github.com/crewAIInc/crewAI)**  
-  Role-based multi-agent orchestration with strong community templates for sales, marketing, and GTM automation.
-
-- **[Huginn](https://github.com/huginn/huginn)**  
-  Open-source personal automation agent for monitoring signals, enriching leads, and triggering GTM actions.
-
-- **[Phidata GTM Agents](https://github.com/phidatahq/phidata)**  
-  Framework for building production agents with memory, tools, and knowledge tailored for revenue operations.
-
-- **[OpenDevin / Autonomous Agents](https://github.com/OpenDevin/OpenDevin)**  
-  Open-source autonomous AI engineer adaptable for building custom GTM tools and pipelines.
-
-- **[PostHog](https://github.com/PostHog/posthog)**  
-  Complete open-source product analytics with strong support for GTM experimentation and user behavior insights.
-
-- **[EspoCRM](https://github.com/espocrm/espocrm)**  
-  Lightweight open-source CRM suitable for lean GTM and sales teams with high customizability.
-
-### Additional Strong Open-Source Options
-
-- **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** — Mature enterprise open-source CRM for revenue operations.
-- **[Odoo](https://github.com/odoo/odoo)** — Full open-source ERP/CRM with strong sales and marketing modules.
-- **[LangChain + SERP/Tavily** templates for lead research agents.
-- **[n8n + CrewAI** combinations for end-to-end autonomous GTM workflows.
-- **[Vikunja / Plane** for task and pipeline management in GTM contexts.
-- Many community **LangGraph + Twenty CRM** stacks for fully local, private GTM systems.
-
-**Frameworks for building custom agents**: Combine **Twenty**, **n8n**, **LangGraph**, and **CrewAI** with **Ollama** to create sovereign, high-performance AI-powered GTM infrastructure.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Always comply with data privacy laws (GDPR, CCPA) and platform terms when handling contact and intent data.
-- Self-hosted open-source solutions require proper security, maintenance, and monitoring.
+**Curated List of AI-Powered SaaS Products & Open-Source GitHub Projects**  
+*Optimized for Sales Intelligence, Lead Enrichment, and Autonomous GTM Execution*  
+**📅 Last updated: March 2026**
 
 ---
 
-**Made for revenue leaders, GTM teams, founders, and sales operations professionals.**  
-Let's make go-to-market execution more intelligent, autonomous, and fully controllable.
+### 🌟 Overview
+This repository is a comprehensive directory of **Go-To-Market (GTM) tools**, **Revenue Intelligence platforms**, and **Sales AI Agents**. Whether you are building a modern RevOps stack or looking for sovereign open-source GTM infrastructure, this list covers the category leaders and emerging innovators.
+
+> **Why GTM Tools?** Modern revenue teams use these platforms to automate lead routing, personalize outreach at scale, predict pipeline health, and orchestrate complex account-based marketing (ABM) workflows.
+
+---
+
+## 📑 Table of Contents
+- [💎 SaaS Products](#-saas-products)
+  - [Core Platforms (GTM & AI Agents)](#core-platforms-gtm--ai-agents)
+- [🛠️ Open-Source GitHub Projects](#-open-source-github-projects)
+  - [Dedicated GTM & RevOps Frameworks](#dedicated-gtm--revops-frameworks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Disclaimer](#-disclaimer)
+
+---
+
+## 💎 SaaS Products
+
+### Core Platforms (GTM & AI Agents)
+
+| Product | Description | Company Size (Valuation/Rev) | Pricing | Free Tier / Trial |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Gong](https://www.gong.io/)** 🎙️ | **Revenue Intelligence OS** analyzing sales conversations to optimize performance. | **$7.25B** / ~$500M | **Custom:** ~$1.6k/u/yr | None |
+| **[6sense](https://6sense.com/)** 🧠 | **ABM & Intent Data** platform using AI for predictive GTM execution. | **$5.2B** / ~$600M | **Custom:** ~$63k/yr | **50 credits/mo** |
+| **[Clay](https://clay.com/)** 🧱 | **GTM Automation** for data enrichment and personalized outreach at scale. | **$3.1B** / ~$100M | **Starter:** $149/mo | **100 credits/mo** |
+| **[ZoomInfo](https://zoominfo.com/)** 📞 | **Sales Intelligence** and RevOps platform with deep contact/intent data. | **$2.28B** / ~$1.25B | **Custom:** ~$15k+/yr | **Community Ed.** |
+| **[Demandbase](https://www.demandbase.com/)** 🎯 | **Account-Based Marketing** suite with strong intent and targeting AI. | **$1B+** / ~$250M | **Custom:** ~$65k/yr | None |
+| **[11x.ai (Alice)](https://11x.ai/)** 🤖 | **Autonomous AI Sales Agent** for outreach and automated booking. | **$350M** / ~$25M | **Custom:** ~$5k/mo | None |
+| **[Fullcast](https://fullcast.io/)** 🗺️ | **Territory Management** and RevOps orchestration for large sales teams. | **$303.6M** / ~$130M | **Custom:** ~$85k/yr | None |
+| **[Copy.ai](https://copy.ai/)** ✍️ | **AI GTM Workflows** for content and revenue process automation. | **$65M** / ~$50M | **Chat:** $29/mo | **2,000 words/mo** |
+| **[SuperAGI](https://superagi.com/)** 🦾 | **Agentic Infrastructure** for building custom GTM and sales agents. | **$29.7M** / ~$10M | **Starter:** $12/mo | **100 credits/mo** |
+| **[GTM Engine](https://gtmengine.com/)** ⚙️ | **Execution Platform** for optimizing go-to-market strategies with AI. | **$2.5M** / ~$2M | **Launch:** $149/mo | **1,000 credits** |
+| **[Elentaria](https://elentaria.com/)** ⚡ | **GTM Orchestration** focused on lead routing and revenue personalization. | **Early Stage** / ~$1-5M | **Audit:** $190 | No Free Tier |
+
+---
+
+## 🛠️ Open-Source GitHub Projects
+
+### Dedicated GTM & RevOps Frameworks
+
+- **[Twenty](https://github.com/twentyhq/twenty)** 🏛️  
+  *The modern open-source CRM.* Built for startups to customize GTM workflows without vendor lock-in.
+
+- **[n8n](https://github.com/n8n-io/n8n)** 🔗  
+  *Workflow Automation with LLMs.* Perfect for building complex autonomous GTM agents and revenue triggers.
+
+- **[LangGraph GTM](https://github.com/langchain-ai/langgraph)** 🕸️  
+  *Stateful Multi-Agent Framework.* Ideal for lead research, personalization, and multi-step outreach agents.
+
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** 👥  
+  *Multi-Agent Orchestration.* Leverage role-based agents for sales, marketing, and pipeline management.
+
+- **[PostHog](https://github.com/PostHog/posthog)** 🦔  
+  *Product Analytics for GTM.* Understand user behavior and run experiments to drive revenue growth.
+
+- **[Huginn](https://github.com/huginn/huginn)** 🦅  
+  *Personal Automation Agents.* Monitor signals and trigger GTM actions based on external events.
+
+---
+
+## 📈 SEO & Discovery Keywords
+`Go-To-Market` `RevOps` `Sales Intelligence` `AI Sales Agents` `Revenue Operations` `Lead Enrichment` `Intent Data` `ABM` `Sales Engagement` `B2B SaaS` `Revenue AI`
+
+---
+
+## 🤝 How to Contribute
+
+1. 🍴 **Fork** the repository.
+2. 📝 **Add/Edit** entries (maintain alphabetical order or table structure).
+3. 🔗 **Include** official links and factual descriptions.
+4. 🚀 **Submit** a Pull Request!
+
+---
+
+## ⚖️ Disclaimer
+
+- This is a community-curated list. It is not an endorsement of any product.
+- Ensure compliance with GDPR, CCPA, and platform terms when handling data.
+- Self-hosted solutions require proper security and maintenance.
+
+---
+<p align="center">
+  <b>Built with ❤️ for Revenue Leaders, Founders, and Sales Ops Professionals.</b><br>
+  <i>Let's build the future of autonomous Go-To-Market execution.</i>
+</p>
