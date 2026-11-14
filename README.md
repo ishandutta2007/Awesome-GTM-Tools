@@ -52,6 +52,7 @@ This repository is a comprehensive directory of **Go-To-Market (GTM) tools**, **
 | **[SuperAGI](https://superagi.com/)** 🦾 | **Agentic Infrastructure** for building custom GTM and sales agents. | **$29.7M** / ~$10M | **Starter:** $12/mo | **100 credits/mo** |
 | **[GTM Engine](https://gtmengine.com/)** ⚙️ | **Execution Platform** for optimizing go-to-market strategies with AI. | **$2.5M** / ~$2M | **Launch:** $149/mo | **1,000 credits** |
 | **[Elentaria](https://elentaria.com/)** ⚡ | **GTM Orchestration** focused on lead routing and revenue personalization. | **Early Stage** / ~$1-5M | **Audit:** $190 | No Free Tier |
+| **[Datacircle](https://datacircle.dev)** 📊 | **GTM API Benchmark** comparing every plan of every GTM API on price, accuracy and speed. | **Early Stage** | **Free** | **Open API, no key** |
 
 ---
 
