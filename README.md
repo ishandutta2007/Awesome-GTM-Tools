@@ -77,6 +77,9 @@ This repository is a comprehensive directory of **Go-To-Market (GTM) tools**, **
 - **[Huginn](https://github.com/huginn/huginn)** 🦅  
   *Personal Automation Agents.* Monitor signals and trigger GTM actions based on external events.
 
+- **[Leadsets GTM Skills](https://github.com/leadsets/leadsets-skills)**  
+  *Open-source GTM skills for AI agents.* 50 MIT-licensed skills for prospect lists, enrichment, verification, account research and CRM hygiene, with Unlimited B2B Contact Data.
+
 ---
 
 ## 📈 Star History
